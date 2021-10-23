@@ -1,4 +1,5 @@
-class EvenFibonacciNumbers {
+// EvenFibonacciNumbers
+class P002 {
   public static void main(String[] args) {
     long a = 1;
     long b = 2;
